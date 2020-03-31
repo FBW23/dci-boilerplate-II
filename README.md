@@ -25,7 +25,7 @@ For more advanced webpacking, check out this cool book: https://survivejs.com/we
 1. Clone this repository into a new project folder (replace `[project name]` with your project's name)
 
    ```
-   git clone git@github.com:DigitalCareerInstitute/dci-boilerplate-II.git [project name]
+   git clone git@github.com:FBW23/dci-boilerplate-II.git [project name]
    ```
 
 1. Delete the boilerplate's git history
